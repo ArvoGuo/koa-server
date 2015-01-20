@@ -1,0 +1,19 @@
+{
+  "name": "web-koa-test",
+  "version": "0.0.0",
+  "authors": [
+    "Arvo <ArvoGuo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
